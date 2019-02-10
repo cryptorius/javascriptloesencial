@@ -1,0 +1,6 @@
+git init
+git add README.md
+git commit -m "actualizado"
+git remote add origin https://github.com/cryptorius/examenjavascript.git
+git push -u https://github.com/cryptorius/examenjavascript.git --all
+
